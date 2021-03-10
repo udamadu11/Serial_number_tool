@@ -12,9 +12,3 @@
 		3.  **pip install xlsxwriter**
 		4.  Hit  Enter
 	- [ ]  After Run code
-	
-- [ ]   2.If you are not using PyCharm IDE,
-	1.  Then Create new folder
-	2.  clone this Repository
-	3.  Then type , **pip install -r requirements.txt**
-	4.  Run Code  **fileName.py** in terminal
